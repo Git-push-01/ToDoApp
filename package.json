@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@react-native-community/netinfo": "^5.3.3",
+    "expo": "^36.0.2"
+  }
+}
