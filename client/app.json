@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "sdkVersion": "36.0.0",
+    "name": "react-native-web-starter",
+    "slug": "react-native-web-starter",
+    "version": "0.1.0",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  }
+}

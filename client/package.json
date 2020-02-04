@@ -1,0 +1,47 @@
+{
+  "name": "react-native-web-starter",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@react-native-community/netinfo": "4.6.0",
+    "axios": "^0.19.2",
+    "expo": "^36.0.2",
+    "pusher-js": "^5.0.3",
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.1.tar.gz",
+    "react-native-web": "^0.11.7"
+  },
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "eject": "expo eject",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "test": "jest"
+  },
+
+  "devDependencies": {
+    "babel-plugin-react-native-web": "^0.11.2",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-react-jsx-source": "^6.22.0",
+    "babel-preset-expo": "^8.0.0",
+    "flow-bin": "^0.66.0",
+    "react-art": "16.5.1",
+    "react-native-scripts": "^2.0.1",
+    "react-scripts": "^3.3.1",
+    "react-test-renderer": "16.5.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
