@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@react-native-community/netinfo": "4.6.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "expo": "^36.0.2",
     "pusher-js": "^5.0.3",
     "react": "16.9.0",
