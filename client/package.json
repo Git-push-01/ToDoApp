@@ -29,7 +29,7 @@
     "flow-bin": "^0.66.0",
     "react-art": "16.5.1",
     "react-native-scripts": "^2.0.1",
-    "react-scripts": "^3.3.1",
+    "react-scripts": "^5.0.1",
     "react-test-renderer": "16.5.1"
   },
   "browserslist": {
